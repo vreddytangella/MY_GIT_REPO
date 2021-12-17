@@ -9,13 +9,13 @@ package com.helloworld.bean;
  */
 public class UserBean {
 
-    private String name;
+    private int name;
 
-    public String getName() {
+    public int getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(int name) {
         this.name = name;
     }
 }
