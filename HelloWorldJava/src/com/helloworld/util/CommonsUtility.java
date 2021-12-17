@@ -9,4 +9,8 @@ package com.helloworld.util;
  */
 public class CommonsUtility {
 
+    public static void testMethod(){
+        System.out.println("first commit to master...");
+    }
+
 }
